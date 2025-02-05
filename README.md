@@ -1,1 +1,1 @@
-This work primarily uses reference code from MATLAB for correlation analysis, FFT, and cross wavelet transform. The code is stored in the file named 'Data_processing_code,' organized by figure, and can be combined with the supplementary data.
+This work primarily uses reference code from MATLAB for correlation analysis, Fast Fourier Transform, and cross wavelet transform. The code is stored in the file named 'Data_processing_code,' organized by figure, and can be combined with the supplementary data.
